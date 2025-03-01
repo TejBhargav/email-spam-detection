@@ -1,4 +1,4 @@
-Email Spam Detection
+EMAIL SPAM DETECTION
 
 This project is an Email Spam Detection system that classifies emails as spam or ham (not spam) using machine learning techniques. The model is trained on a dataset of labeled emails to detect patterns and distinguish between spam and legitimate emails.
 
